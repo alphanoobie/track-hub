@@ -1,0 +1,5 @@
+hub SampleHub
+shortLabel SampleHub
+longLabel First Time making a track hub
+genomesFile genomes.txt
+email hussaingadi.hg@gmail.com

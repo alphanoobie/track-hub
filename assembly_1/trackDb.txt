@@ -1,0 +1,5 @@
+track Track1
+bigDataUrl ./assembly.A.1k.bw
+shortLabel Track1
+longLabel Sample Track 1
+type bigWig 
